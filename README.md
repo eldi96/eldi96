@@ -1,9 +1,13 @@
 <div>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=blur&height=130&color=gradient&text=ELDI&fontSize=45&fontAlign=12&fontAlignY=50&animation=fadeIn"
-/>
+<img src="./eldi-header.svg" width="100%" alt="ELDI header">
+
+learning to build things  
+one line at a time.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,figma&theme=dark">
 
 <p>
   learning to build things<br>
