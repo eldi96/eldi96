@@ -10,7 +10,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,45:16213e,100:0f3460&section=header"
 />
 
-# 💫 About Me:
+## 💫 About Me:
 
 - 🌱 Learning and building, one step at a time<br>
 - 🔐 Interested in Security, AI, and Automation<br>
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,7 +34,7 @@
 <br>
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=eldi96&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)
 
