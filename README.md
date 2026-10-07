@@ -1,23 +1,47 @@
+<!-- HEADER -->
 <div align="center">
 
-# Hi there 👋
+# 👋 Hi, I'm eldi
 
-### Learning, building, and growing one step at a time.
+### `Learn.` `Build.` `Improve.`
 
 <br>
 
-## 🛠️ Skills & Tools
+꾸준히 배우고, 직접 만들어보며 성장하고 있습니다.
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,figma" />
+<br>
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
 <br><br>
 
-## 📊 GitHub Stats
+### Tools
 
-<img src="https://github-readme-stats.vercel.app/api?username=eldi96&show_icons=true&hide_border=true&theme=github_dark" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&hide_border=true&theme=github_dark" />
+---
+
+## 📊 GitHub
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eldi96&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&hide_border=true&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eldi96&theme=github-compact&hide_border=true&area=true" width="95%" />
+
+<br>
+
+---
+
+### Thanks for visiting 👋
 
 </div>
