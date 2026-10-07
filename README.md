@@ -76,3 +76,12 @@
 - 웹 인터페이스 설계
 
 </details>
+## GitHub
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&theme=github_dark&hide_border=true"
+/>
+## Contact
+
+<a href="블로그주소">Blog</a> ·
+<a href="mailto:이메일주소">Email</a>
