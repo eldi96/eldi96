@@ -1,28 +1,78 @@
-<div>
-
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d1117,45:16213e,100:0f3460&text=ELDI&fontColor=e6edf3&fontSize=42&fontAlign=18&fontAlignY=38&animation=fadeIn&desc=learn%20%C2%B7%20build%20%C2%B7%20improve&descAlign=18&descAlignY=60&descSize=13"
 />
 
-<p>
-  learning to build things<br>
-  one line at a time.
-</p>
+## Tech Stack
+
+<details>
+<summary>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="32" />
+  <b>Python</b>
+</summary>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,figma&theme=dark" />
+- Python 기초 문법
+- API 요청 및 데이터 처리
+- Flask / FastAPI
+- JSON 데이터 처리
+- 자동화 스크립트
 
-<br><br>
+</details>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e"
-  height="140"
-/>
+<details>
+<summary>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="32" />
+  <b>JavaScript</b>
+</summary>
 
-<br><br>
+<br>
 
-<sub>still learning · still building</sub>
+- JavaScript 기본 문법
+- 웹 페이지 동작 구현
+- API 데이터 활용
 
-</div>
+</details>
+
+<details>
+<summary>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="32" />
+  <b>HTML</b>
+</summary>
+
+<br>
+
+- 웹 페이지 구조 작성
+- Semantic HTML
+- Form 및 기본 UI 구성
+
+</details>
+
+<details>
+<summary>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="32" />
+  <b>CSS</b>
+</summary>
+
+<br>
+
+- 기본 스타일링
+- Layout
+- 반응형 UI 구성
+
+</details>
+
+<details>
+<summary>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="32" />
+  <b>Figma</b>
+</summary>
+
+<br>
+
+- UI 디자인
+- Prototype 제작
+- 웹 인터페이스 설계
+
+</details>
