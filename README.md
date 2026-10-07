@@ -17,11 +17,9 @@
 
 <p>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=eldi96&style=flat&color=555555" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=eldi96&style=flat&color=555555&label=Profile%20views" alt="Profile Views">
   </a>
-
-  <img width="430" height="1" alt="">
-
+  <img src="https://placehold.co/570x1/transparent/transparent" width="570" height="1">
   <a href="https://instagram.com/hyeo96">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
