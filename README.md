@@ -15,16 +15,32 @@
 
 ---
 
-<p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=eldi96&style=flat&color=555555&label=Profile%20views" alt="Profile Views">
-  </a>
-  <img src="https://placehold.co/570x1/transparent/transparent" width="570" height="1">
-  <a href="https://instagram.com/hyeo96">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:이메일주소">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<table width="1000">
+  <tr>
+    <td width="500" align="left">
+      <a href="https://visitcount.itsvg.in">
+        <img
+          src="https://komarev.com/ghpvc/?username=eldi96&label=Profile%20views&color=555555&style=flat"
+          alt="Profile Views"
+        >
+      </a>
+    </td>
+
+    <td width="500" align="right">
+      <a href="https://instagram.com/hyeo96">
+        <img
+          src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"
+          alt="Instagram"
+        >
+      </a>
+      &nbsp;
+      <a href="mailto:eldi96@naver.com">
+        <img
+          src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"
+          alt="Email"
+        >
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
