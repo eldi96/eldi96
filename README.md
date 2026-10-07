@@ -1,83 +1,122 @@
+
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d1117,45:16213e,100:0f3460&text=ELDI&fontColor=e6edf3&fontSize=42&fontAlign=18&fontAlignY=38&animation=fadeIn&desc=learn%20%C2%B7%20build%20%C2%B7%20improve&descAlign=18&descAlignY=60&descSize=13"
 />
 
-## Tech Stack
+### About
+
+Learning, building, and improving one step at a time.  
+Interested in development, automation, and security.
+
+---
+
+### Tech Stack
 
 <details>
 <summary>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="32" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="28" />
   <b>Python</b>
 </summary>
 
-<br>
-
-- Python 기초 문법
-- API 요청 및 데이터 처리
+- Python fundamentals
+- API & JSON
 - Flask / FastAPI
-- JSON 데이터 처리
-- 자동화 스크립트
+- Automation
 
 </details>
 
 <details>
 <summary>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="32" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="28" />
   <b>JavaScript</b>
 </summary>
 
-<br>
-
-- JavaScript 기본 문법
-- 웹 페이지 동작 구현
-- API 데이터 활용
+- JavaScript fundamentals
+- Web interaction
+- API integration
 
 </details>
 
 <details>
 <summary>
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="32" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="28" />
   <b>HTML</b>
 </summary>
 
-<br>
-
-- 웹 페이지 구조 작성
+- Web structure
 - Semantic HTML
-- Form 및 기본 UI 구성
+- Forms
 
 </details>
 
 <details>
 <summary>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="32" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="28" />
   <b>CSS</b>
 </summary>
 
-<br>
-
-- 기본 스타일링
+- Styling
 - Layout
-- 반응형 UI 구성
+- Responsive UI
 
 </details>
 
+<details>
+<summary>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="28" />
+  <b>Figma</b>
+</summary>
+
+- UI Design
+- Prototyping
+- Interface Design
+
+</details>
+
+---
+
+### Development
+
+<img
+  height="145"
+  src="https://github-readme-stats.vercel.app/api?username=eldi96&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
+/>
+<img
+  height="145"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
+/>
+
+---
+
+### Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=eldi96&theme=github-compact&hide_border=true&area=true"
+/>
+
+---
+
+### Projects
+
+<details>
+<summary><b>security-agent-toolkit</b></summary>
+
+Security automation and agent experiments.
+
+`Python` `Security` `Automation`
+
+</details>
+
+<details>
+<summary><b>More projects</b></summary>
+
+Building...
+
+</details>
 <details>
 <summary>
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="32" />
   <b>Figma</b>
 </summary>
 
-<br>
-
-- UI 디자인
-- Prototype 제작
-- 웹 인터페이스 설계
-
-
-## Activity
-
-<img
-  src="https://streak-stats.demolab.com?user=eldi96&theme=github-dark-blue&hide_border=true"
-/>
