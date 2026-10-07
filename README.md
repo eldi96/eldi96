@@ -83,9 +83,11 @@
 ## Contact
 
 <a href="블로그주소">
-  <img src="https://cdn.simpleicons.org/naver/03C75A" width="18" /> Blog
+  <img src="https://api.iconify.design/lucide:globe.svg?color=%238b949e" width="18" />
+  Blog
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:이메일주소">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" /> Email
+  <img src="https://api.iconify.design/lucide:mail.svg?color=%238b949e" width="18" />
+  Email
 </a>
