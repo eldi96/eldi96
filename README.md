@@ -111,4 +111,15 @@
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="32" />
   <b>Figma</b>
 </summary>
+### 🐚 Work Stats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eldi96&theme=github_dark&utcOffset=9" />
+
+### 📊 Profile Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eldi96&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eldi96&theme=github_dark" />
+
+### 📈 Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eldi96&theme=github_dark" />
