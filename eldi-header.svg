@@ -1,0 +1,29 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="blurBlue" x="-80%" y="-150%" width="260%" height="400%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <filter id="blurCyan" x="-80%" y="-150%" width="260%" height="400%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+    <linearGradient id="textGradient" x1="32" y1="0" x2="190" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#E6F4FF"/>
+      <stop offset="1" stop-color="#B8E7FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- transparent background -->
+  <ellipse cx="105" cy="76" rx="92" ry="42" fill="#2563EB" fill-opacity="0.34" filter="url(#blurBlue)"/>
+  <ellipse cx="155" cy="74" rx="72" ry="34" fill="#22D3EE" fill-opacity="0.28" filter="url(#blurCyan)"/>
+
+  <text x="30" y="96"
+        fill="url(#textGradient)"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="58"
+        font-weight="700"
+        letter-spacing="3">ELDI</text>
+
+  <rect x="31" y="111" width="112" height="2" rx="1" fill="#58C7F3" fill-opacity="0.65"/>
+  <circle cx="151" cy="112" r="2.5" fill="#93E9FF"/>
+</svg>
