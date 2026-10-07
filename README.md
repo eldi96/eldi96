@@ -2,13 +2,6 @@
 
 <img src="./eldi-header.svg" width="100%" alt="ELDI header">
 
-learning to build things  
-one line at a time.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,figma&theme=dark">
-
 <p>
   learning to build things<br>
   one line at a time.
