@@ -14,10 +14,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=eldi96&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=eldi96&icon=1&color=9)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hyeo96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eldi96@nave.com) 
-
-
+---
+[![](https://komarev.com/ghpvc/?username=eldi96&icon=1&color=9)](https://visitcount.itsvg.in) &nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hyeo96) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eldi96@naver.com)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
