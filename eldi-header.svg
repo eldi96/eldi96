@@ -1,0 +1,44 @@
+<svg width="1200" height="135" viewBox="0 0 1200 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="mist" x="-15%" y="-180%" width="130%" height="460%">
+    <feGaussianBlur stdDeviation="32"/>
+  </filter>
+  <filter id="localGlow" x="-70%" y="-140%" width="240%" height="380%">
+    <feGaussianBlur stdDeviation="24"/>
+  </filter>
+
+  <linearGradient id="mistGradient" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1D4ED8" stop-opacity=".34"/>
+    <stop offset=".14" stop-color="#22D3EE" stop-opacity=".26"/>
+    <stop offset=".38" stop-color="#0EA5E9" stop-opacity=".17"/>
+    <stop offset=".68" stop-color="#2563EB" stop-opacity=".10"/>
+    <stop offset=".88" stop-color="#38BDF8" stop-opacity=".055"/>
+    <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+  </linearGradient>
+
+  <linearGradient id="textGradient" x1="24" y1="0" x2="185" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#FFFFFF"/>
+    <stop offset=".65" stop-color="#F0F9FF"/>
+    <stop offset="1" stop-color="#BAE6FD"/>
+  </linearGradient>
+</defs>
+
+<!-- Narrower, softer mist so it blends into GitHub's background instead of looking like a banner -->
+<ellipse cx="500" cy="70" rx="690" ry="27"
+         fill="url(#mistGradient)" filter="url(#mist)"/>
+
+<!-- Slightly stronger glow only around the name -->
+<ellipse cx="112" cy="69" rx="118" ry="31"
+         fill="#38BDF8" fill-opacity=".25" filter="url(#localGlow)"/>
+
+<text x="24" y="84"
+      fill="url(#textGradient)"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="54"
+      font-weight="700"
+      letter-spacing="3">ELDI</text>
+
+<rect x="25" y="99" width="116" height="2" rx="1"
+      fill="#7DD3FC" fill-opacity=".78"/>
+<circle cx="149" cy="100" r="2.5" fill="#CFFAFE"/>
+</svg>
