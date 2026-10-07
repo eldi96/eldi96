@@ -1,9 +1,11 @@
-<div>
+<div align="center">
+
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=ELDI&fontSize=70&fontAlignY=45&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&text=ELDI&fontSize=60&fontAlignY=50&animation=fadeIn"
 />
-<h1>eldi</h1>
+
+<br>
 
 <p>
   learning to build things<br>
@@ -21,7 +23,7 @@
   height="140"
 />
 
-<br>
+<br><br>
 
 <sub>still learning · still building</sub>
 
