@@ -11,6 +11,7 @@
 - 🧩 I enjoy understanding how things work, not just making them work
 
 <br>
+<br>
 
 # 💻 Tech Stack:
 
@@ -23,6 +24,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<br>
 <br>
 
 # 📊 GitHub Stats:
@@ -37,6 +39,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=eldi96&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br>
 <br>
 
 ---
