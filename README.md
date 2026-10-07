@@ -76,6 +76,7 @@
 - 웹 인터페이스 설계
 
 
+## Activity
 
 <img
   src="https://streak-stats.demolab.com?user=eldi96&theme=github-dark-blue&hide_border=true"
