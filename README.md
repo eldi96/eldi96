@@ -75,12 +75,8 @@
 - Prototype 제작
 - 웹 인터페이스 설계
 
-</details>
+
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&theme=github_dark&hide_border=true"
+  src="https://streak-stats.demolab.com?user=eldi96&theme=github-dark-blue&hide_border=true"
 />
