@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,45:16213e,100:0f3460&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d1117,45:16213e,100:0f3460&section=header"
 />
 <h1>
   ELDI
