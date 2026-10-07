@@ -44,23 +44,18 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://visitcount.itsvg.in">
-        <img src="https://komarev.com/ghpvc/?username=eldi96&icon=1&color=9">
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://instagram.com/hyeo96">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
-      </a>
-      &nbsp;
-      <a href="mailto:eldi96@nave.com">
-        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=eldi96&label=Profile%20views&color=555555&style=flat" alt="Profile Views">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/hyeo96">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="mailto:eldi96@naver.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
