@@ -1,8 +1,8 @@
 <div>
 
 <img
-  width="100%"
   src="https://capsule-render.vercel.app/api?type=blur&height=130&color=gradient&text=ELDI&fontSize=45&fontAlignY=50&animation=fadeIn"
+  width="400"
 />
 
 <p>
