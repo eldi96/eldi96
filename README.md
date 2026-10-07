@@ -1,6 +1,6 @@
 <div>
 
-<img src="./eldi-header.svg" width="100%" alt="ELDI header">
+<img src="./eldi-header-full-blur-dense.svg" width="100%" alt="ELDI header">
 
 <p>
   learning to build things<br>
