@@ -1,5 +1,8 @@
 <div>
-
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=ELDI&fontSize=70&fontAlignY=45&animation=fadeIn"
+/>
 <h1>eldi</h1>
 
 <p>
