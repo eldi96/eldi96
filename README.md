@@ -16,5 +16,22 @@
 ---
 
 ---
-[![](https://komarev.com/ghpvc/?username=eldi96&icon=1&color=9)](https://visitcount.itsvg.in) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hyeo96) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eldi96@naver.com)
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://visitcount.itsvg.in">
+        <img src="https://komarev.com/ghpvc/?username=eldi96&icon=1&color=9">
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://instagram.com/hyeo96">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+      </a>
+      &nbsp;
+      <a href="mailto:eldi96@nave.com">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
