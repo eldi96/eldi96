@@ -80,14 +80,7 @@
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&theme=github_dark&hide_border=true"
 />
-## Contact
 
-<a href="블로그주소">
-  <img src="https://api.iconify.design/lucide:globe.svg?color=%238b949e" width="14" />
-  <sub>Blog</sub>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:이메일주소">
-  <img src="https://api.iconify.design/lucide:mail.svg?color=%238b949e" width="14" />
-  <sub>Email</sub>
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&theme=github_dark&hide_border=true"
+/>
