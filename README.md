@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**eldi96/eldi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+### Learning, building, and growing one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🛠️ Skills & Tools
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,figma" />
+
+<br><br>
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=eldi96&show_icons=true&hide_border=true&theme=github_dark" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldi96&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
