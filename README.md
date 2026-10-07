@@ -15,21 +15,20 @@
 
 ---
 
----
 <table width="100%">
   <tr>
-    <td align="left">
+    <td width="50%" align="left">
       <a href="https://visitcount.itsvg.in">
-        <img src="https://komarev.com/ghpvc/?username=eldi96&icon=1&color=9">
+        <img src="https://komarev.com/ghpvc/?username=eldi96&icon=1&color=9" alt="Profile Views">
       </a>
     </td>
-    <td align="right">
+    <td width="50%" align="right">
       <a href="https://instagram.com/hyeo96">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
       </a>
-      &nbsp;
-      <a href="mailto:eldi96@nave.com">
-        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+      &nbsp;&nbsp;
+      <a href="mailto:이메일주소">
+        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
   </tr>
