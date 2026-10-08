@@ -53,6 +53,7 @@
     src="https://render.gitanimals.org/lines/eldi96"
     width="600"
     height="120"
+    style="background-color: white;"
   />
 </a>
   
